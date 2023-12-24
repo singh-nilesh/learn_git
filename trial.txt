@@ -1,0 +1,2 @@
+this is a demo fire to learn git init.
+ i will be adding the origin form command line.
